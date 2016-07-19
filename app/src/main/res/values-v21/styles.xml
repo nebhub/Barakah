@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BarakahButton">
+        <item name="android:height">@dimen/button_height</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+        <item name="android:backgroundTint">@color/primary_color_light</item>
+
+    </style>
+</resources>

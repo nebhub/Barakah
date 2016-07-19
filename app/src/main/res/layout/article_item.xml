@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        style="@style/BarakahCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <RelativeLayout
+            style="@style/BarakahCardLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            >
+
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_alignParentLeft="true"
+                android:layout_toLeftOf="@+id/article_image"
+                android:paddingBottom="0dp"
+                android:paddingLeft="@dimen/card_items_padding"
+                android:paddingRight="0dp"
+                android:paddingTop="@dimen/card_items_padding"
+
+                >
+
+                <TextView
+                    android:id="@+id/article_title"
+                    style="@style/primary_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:text="The mostly long title article titles, that might be two lines long" />
+
+                <TextView
+                    android:id="@+id/article_date"
+                    style="@style/secondary_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_below="@id/article_title"
+                    android:text="Jan 4" />
+
+
+            </RelativeLayout>
+
+            <ImageView
+                android:id="@+id/article_image"
+                style="@style/BarakahCardImage"
+                android:layout_alignParentRight="true"
+                android:visibility="gone"
+
+                />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

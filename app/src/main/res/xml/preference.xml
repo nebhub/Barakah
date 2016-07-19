@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/pref_key_notifications"
+        android:summary="@string/pref_notifications_summ"
+        android:title="@string/pref_notifications" />
+
+    <ListPreference
+
+        android:defaultValue="@string/pref_auto_update_default"
+        android:dialogTitle="@string/pref_auto_update"
+
+        android:entries="@array/pref_auto_update_entries"
+        android:entryValues="@array/pref_auto_update_values"
+        android:key="@string/pref_key_auto_update"
+        android:title="@string/pref_auto_update" />
+
+
+</PreferenceScreen>

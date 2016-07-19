@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Actions -->
+    <string name="app_name">Barakah Chicago</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_update">Update</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="action_signin">Sign In</string>
+    <string name="action_forgot_password">Forgot Password ?</string>
+    <string name="action_signup">Sign Up</string>
+    <string name="action_send">Send</string>
+
+
+    <!-- Preference keys -->
+    <string name="pref_key_auto_update">pref_auto_update</string>
+    <string name="pref_key_notifications">pref_notifications</string>
+    <string name="pref_key_username">pref_username</string>
+    <string name="pref_key_alarm_set">pref_alarm_set</string>
+    <string name="pref_key_signed_in">pref_signed_in</string>
+
+
+    <!-- Preference Values -->
+    <string name="pref_notifications">Notifications</string>
+    <string name="pref_notifications_summ">Turn notifications on/off</string>
+    <string name="pref_auto_update">Auto Update</string>
+    <string name="pref_auto_update_summ">Automatically update data</string>
+    <string name="title_activity_barakah_settings">Settings</string>
+
+
+    <!--- Preference Vdefault values  -->
+    <string name="pref_auto_update_default">2</string>
+
+    <!-- Titles-->
+    <string name="title_fragment_signin">Sign In</string>
+    <string name="title_fragment_signup">Sign Up</string>
+    <string name="title_fragment_password_reset">Password Reset</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_feedback">Feedback</string>
+
+
+    <!-- Hints-->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password (Min 6 characters)</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_message">Message</string>
+
+    <!-- Errors-->
+    <string name="error_email">Invalid email</string>
+    <string name="error_first_name">Enter First Name</string>
+    <string name="error_last_name">Enter Last Name</string>
+    <string name="error_phone_number">Enter Phone Number</string>
+    <string name="error_password">Invalid password. Min 6 characters</string>
+    <string name="error_feedback_message">Enter a message.</string>
+    <string name="error_cannot_update">Cannot update. Check your connection</string>
+    <string name="error_cannot_send">Cannot send. Check your connection</string>
+    <string name="error_cannot_connect">Error. Check your connection</string>
+    <!-- Messages-->
+    <string name="message_singing_in">Signing in</string>
+    <string name="message_singing_up">Signing up</string>
+    <string name="message_password_reset_checking_email">Checking email</string>
+    <string name="message_please_wait">Please Wait ...</string>
+    <string name="message_password_reset">Enter the email address associated with your account.</string>
+    <string name="message_updated">Updated</string>
+    <string name="message_feedback_sent">Feedback sent</string>
+    <string name="message_no_data">No data</string>
+
+
+</resources>

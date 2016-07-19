@@ -1,0 +1,152 @@
+[
+    {
+        "outputFile": "C:\\Users\\bevuk\\StudioProjects\\Barakah\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "C:\\Users\\bevuk\\StudioProjects\\Barakah\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "C:\\Users\\bevuk\\StudioProjects\\Barakah\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v14\\values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 70,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "C:\\Users\\bevuk\\StudioProjects\\Barakah\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v14\\values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 82,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "C:\\Users\\bevuk\\StudioProjects\\Barakah\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v14\\values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "C:\\Users\\bevuk\\StudioProjects\\Barakah\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v14\\values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "C:\\Users\\bevuk\\StudioProjects\\Barakah\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v14\\values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endColumn": 119,
+                    "endOffset": 1582
+                },
+                "from": {
+                    "file": "C:\\Users\\bevuk\\StudioProjects\\Barakah\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v14\\values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1587,
+                    "endColumn": 62,
+                    "endOffset": 1645
+                },
+                "from": {
+                    "file": "C:\\Users\\bevuk\\StudioProjects\\Barakah\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v14\\values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1650,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1799
+                },
+                "from": {
+                    "file": "C:\\Users\\bevuk\\StudioProjects\\Barakah\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v14\\values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1804,
+                    "endColumn": 62,
+                    "endOffset": 1862
+                },
+                "from": {
+                    "file": "C:\\Users\\bevuk\\StudioProjects\\Barakah\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v14\\values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1867,
+                    "endColumn": 131,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\bevuk\\StudioProjects\\Barakah\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-v14\\values-v14.xml"
+                }
+            }
+        ]
+    }
+]
